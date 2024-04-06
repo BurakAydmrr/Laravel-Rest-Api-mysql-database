@@ -1,4 +1,4 @@
-# Laravel Rest Api (CRUD)
+# Laravel Rest Api  - MySQL Database - (CRUD)
 
 - edit .env file
 - edit model,controller
